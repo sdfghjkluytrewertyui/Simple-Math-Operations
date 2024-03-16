@@ -1,6 +1,6 @@
 {
   "name": "simple-math-operations-tea",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -29,7 +29,8 @@
     "social-media-analytics-tool":"^1.0.0",
     "sum-dangtthuynhi":"^1.0.0",
     "example-sum-hminhthu":"^1.0.0",
-    "weather-app-tea":"^1.0.0"
+    "weather-app-tea":"^1.0.0",
+    "simple-math-operations-tea": "^1.0.0"
     }
     
 }
