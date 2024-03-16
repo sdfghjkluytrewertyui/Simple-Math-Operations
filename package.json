@@ -1,0 +1,35 @@
+{
+  "name": "simple-math-operations-tea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sdfghjkluytrewertyui/Simple-Math-Operations.git"
+  },
+  "keywords": [
+    "simple",
+    "math",
+    "operations"
+  ],
+  "author": "dangtthuynhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sdfghjkluytrewertyui/Simple-Math-Operations/issues"
+  },
+  "homepage": "https://github.com/sdfghjkluytrewertyui/Simple-Math-Operations#readme",
+  "dependencies": {
+    "advanced-math-toolkit":"^1.0.0",
+    "complex-package-minhhnob":"^1.0.0",
+    "shopping-cart-app":"^1.0.0",
+    "simple-package-example-dangtthuynhi":"^1.0.0",
+    "social-media-analytics-tool":"^1.0.0",
+    "sum-dangtthuynhi":"^1.0.0",
+    "example-sum-hminhthu":"^1.0.0",
+    "weather-app-tea":"^1.0.0"
+    }
+    
+}
